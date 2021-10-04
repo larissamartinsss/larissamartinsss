@@ -10,12 +10,13 @@
 
 <br />
   
-  🧡  My passions
-Technology and software
-Learn foreign languages
-looking for self knowledge
-Play soccer
-Nature
-Trips
-Coffe
+#### 🧡 &nbsp;&nbsp;My passions
+  
+* Technology and software
+* Learn foreign languages
+* looking for self knowledge
+* Play soccer
+* Nature
+* Trips
+* Coffe
 
