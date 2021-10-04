@@ -9,3 +9,13 @@
   ![](https://visitor-badge.glitch.me/badge?page_id=larissamartinsss.larissamartinsss)
 
 <br />
+  
+  🧡  My passions
+Technology and software
+Learn foreign languages
+looking for self knowledge
+Play soccer
+Nature
+Trips
+Coffe
+
