@@ -1,4 +1,4 @@
-### <h1 align="center">Hi, I'm Larissa</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Larissa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><h1 align="center">
 <h3 align="center">A passionate jr back-end developer from Brazil</h3>
 
 🔗 &nbsp;**Connect with me**
