@@ -8,6 +8,7 @@
   ![](https://visitor-badge.glitch.me/badge?page_id=larissamartinsss.larissamartinsss)
 
 <br />
+  
 #### 🧡 &nbsp;&nbsp;My passions
   
 * Technology and software
