@@ -13,8 +13,8 @@
 #### 🧡 &nbsp;&nbsp;My passions
   
 * Technology and software
-* Learn foreign languages
-* looking for self knowledge
+* foreign languages
+* self knowledge
 * Play soccer
 * Nature
 * Trips
