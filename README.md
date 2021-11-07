@@ -16,15 +16,3 @@
   
   ![Lari's github stats](https://github-readme-stats.vercel.app/api?username=larissamartinsss&show_icons=true&theme=dracula&hide=stars,issues)
 
-
-  
-#### 🧡 &nbsp;&nbsp;My passions
-  
-* Technology and software
-* foreign languages
-* self knowledge
-* Play soccer
-* Nature
-* Trips
-* Coffee
-
