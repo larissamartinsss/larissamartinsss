@@ -13,7 +13,7 @@
 - 🛠 Lang & Framework: Java, Spring Boot, Angular, Javascript, HTML, CSS
 * ⛏ Interest: Typescript, Vue/React, Node.js
   
-  <div align="center">
+  <div align="left">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamartinsss&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - I really enjoy Java 😛</small>
