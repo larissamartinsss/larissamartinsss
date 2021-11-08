@@ -21,5 +21,6 @@
   <br />
 </div>
   
-  ![Lari's github stats](https://github-readme-stats.vercel.app/api?username=larissamartinsss&show_icons=true&theme=dracula&hide=stars,issues)
+  ![Lari's github stats](https://github-readme-stats.vercel.app/api?username=larissamartinsss&show_icons=true&theme=gotham&hide=stars,issues)
+
 
