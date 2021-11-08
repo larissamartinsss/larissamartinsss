@@ -10,7 +10,7 @@
 
   ### Tech stack:
 
-- 🛠 Lang & Framework: Java, Spring Boot, Angular, Javascript, HTML, CSS
+- 🛠 Lang & Framework: Java, Spring Boot, Docker, Angular, Javascript, HTML, CSS
 * ⛏ Interest: Typescript, Vue/React, Node.js
   
   <div align="left">
