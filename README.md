@@ -11,7 +11,14 @@
   
   ### Tech stack:
   
-- 🛠 Lang & Framework: Node.js, Java,Microservices, Spring Boot, Docker, Angular, Javascript, HTML, CSS
+- 🛠 Lang & Framework: 
+  Node.js 
+  Java
+  Microservices
+  Spring Boot
+  Docker
+  Angular
+  Javascript
+  HTML, CSS
  
-  ![Snake animation](https://github.com/larissamartinsss/larissamartinsss/blob/output/github-contribution-grid-snake.svg)
- 
+
