@@ -11,14 +11,14 @@
   
   ### Tech stack:
   
-- 🛠 Lang & Framework: 
-  Node.js 
-  Java
-  Microservices
-  Spring Boot
-  Docker
-  Angular
-  Javascript
-  HTML, CSS
+- 🛠 Lang & Framework: <br/>
+  Node.js <br/>
+  Java <br/>
+  Microservices <br/>
+  Spring Boot <br/>
+  Docker <br/>
+  Angular <br/>
+  Javascript <br/>
+  HTML, CSS <br/>
  
 
