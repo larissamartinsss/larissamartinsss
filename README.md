@@ -1,24 +1,63 @@
-### Hi, I'm Larissa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><h1 align="center">
-  Welcome to my profile! I'm a full-time coder 👨🏻‍💻 Thanks for visiting and I'd like to [connect](https://www.linkedin.com/in/larissa-martinssouza/)! <br/>
-   ![](https://visitor-badge.glitch.me/badge?page_id=larissamartinsss.larissamartinsss)
-  <br/>
-<div align="center">
-  <a href="https://github.com/larissamartinsss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissamartinsss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamartinsss&layout=compact&langs_count=7&theme=dracula" alt="Top language used in my repos"/>
-  </div>
-<br/>
-  
-  ### Tech stack:
-  
-- 🛠 Lang & Framework: <br/>
-  Node.js <br/>
-  Java <br/>
-  Microservices <br/>
-  Spring Boot <br/>
-  Docker <br/>
-  Angular <br/>
-  Javascript <br/>
-  HTML, CSS <br/>
- 
+### 🛠 Tech Stack
 
+With **5 years of experience** in software engineering, I focus on building scalable, reliable, and cloud-native systems.
+
+#### 🚀 Current Proficiency
+
+**Languages & Frameworks**  
+- Go  
+- Java  
+- Groovy  
+
+**Microservices & APIs**  
+- Design & development of RESTful APIs in cloud-native environments on AWS  
+
+**Tools & Platforms**  
+- Kubernetes  
+- Terraform  
+- AWS (RDS, DynamoDB, SQS, SNS)  
+- Observability: Grafana, Honeycomb  
+
+**Architectural Patterns**  
+- Event-driven architecture  
+- Hexagonal architecture  
+
+---
+
+### 🔁 Familiarity  
+*(Worked with these earlier in my career; still comfortable when needed.)*  
+- Node.js  
+- JavaScript  
+- Angular  
+- Spring Boot  
+- HTML & CSS  
+- Docker  
+
+---
+
+### 📊 GitHub Activity & Commit Stats
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissamartinsss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamartinsss&layout=compact&theme=dracula" />
+
+  <!-- GitHub Streak -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=larissamartinsss&theme=dracula" />
+
+</div>
+
+---
+
+### ⭐ Fun Stats  
+<div align="center">
+  
+  <!-- Total Commits Counter -->
+  <img src="https://komarev.com/ghpvc/?username=larissamartinsss&style=flat-square&color=ff79c6" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=larissamartinsss&theme=dracula&margin-w=10&no-frame=true" />
+
+</div>
