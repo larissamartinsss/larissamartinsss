@@ -35,18 +35,18 @@ With **5 years of experience** in software engineering, I focus on building scal
 
 ---
 
-### 📊 GitHub Activity & Commit Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissamartinsss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <!-- GitHub Stats (stable) -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=larissamartinsss&show_icons=true&theme=dracula&rank_icon=github" />
 
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamartinsss&layout=compact&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamartinsss&layout=compact&theme=dracula" />
 
-  <!-- GitHub Streak -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=larissamartinsss&theme=dracula" />
+  <!-- Streak Stats -->
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=larissamartinsss&theme=dracula" />
 
 </div>
 
